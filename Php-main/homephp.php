@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
@@ -39,12 +40,12 @@
                 </div>
 
         <!-- 01-->
-        <section class="page-section bg-light" id="inserir">
+        <section class="page-section bg-light" id="at1">
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">01</h2>
-                    <h3 class="section-subheading text-muted">inserir</h3>
-                    <a class="btn btn-primary btn-xl text-uppercase" href=pages_php/01_introducao/index.php>Confira!</a>
+                    <h3 class="section-subheading text-muted">Dobrar receita</h3>
+                    <a class="btn btn-primary btn-xl text-uppercase" href=1-receita/index.php>Confira!</a>
                 </div>
                 <div class="row">
                     
@@ -56,12 +57,12 @@
         </section>
 
          <!-- 02-->
-         <section class="page-section bg-light" id="inserir">
+         <section class="page-section bg-light" id="at2">
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">02</h2>
-                    <h3 class="section-subheading text-muted">inserir</h3>
-                    <a class="btn btn-primary btn-xl text-uppercase" href=pages_php/02_lacos/index.php>Confira!</a>
+                    <h3 class="section-subheading text-muted">Tabuadas</h3>
+                    <a class="btn btn-primary btn-xl text-uppercase" href=2-laço/index.php>Confira!</a>
                 </div>
                 <div class="row">
                     
@@ -73,12 +74,12 @@
         </section>
 
          <!-- 03-->
-         <section class="page-section bg-light" id="inserir">
+         <section class="page-section bg-light" id="at3">
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">03</h2>
-                    <h3 class="section-subheading text-muted">inserir, ta com erro</h3>
-                    <a class="btn btn-primary btn-xl text-uppercase" href=pages_php/03_array/index.php>Confira!</a>
+                    <h3 class="section-subheading text-muted">Listando imagens</h3>
+                    <a class="btn btn-primary btn-xl text-uppercase" href=3-array/index.php>Confira!</a>
                 </div>
                 <div class="row">
                     
@@ -90,12 +91,12 @@
         </section>
 
         <!-- 04-->
-        <section class="page-section bg-light" id="inserir">
+        <section class="page-section bg-light" id="at4">
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">04</h2>
-                    <h3 class="section-subheading text-muted">inserir</h3>
-                    <a class="btn btn-primary btn-xl text-uppercase" href=pages_php/04_bd_lista/index.php>Confira!</a>
+                    <h3 class="section-subheading text-muted">Banco de dados - Lista responsiva</h3>
+                    <a class="btn btn-primary btn-xl text-uppercase" href=4-bdlista/index.php>Confira!</a>
                 </div>
                 <div class="row">
                     
@@ -107,12 +108,12 @@
         </section>
 
         <!-- 05-->
-        <section class="page-section bg-light" id="inserir">
+        <section class="page-section bg-light" id="at5">
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">05</h2>
-                    <h3 class="section-subheading text-muted">inserir</h3>
-                    <a class="btn btn-primary btn-xl text-uppercase" href=pages_php/05_bd_cadastro/index.php>Confira!</a>
+                    <h3 class="section-subheading text-muted">Cadastrar</h3>
+                    <a class="btn btn-primary btn-xl text-uppercase" href=5-bdcadastro/index.php>Confira!</a>
                 </div>
                 <div class="row">
                     
@@ -124,12 +125,12 @@
         </section>
 
         <!-- 06-->
-        <section class="page-section bg-light" id="inserir">
+        <section class="page-section bg-light" id="at6">
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">06</h2>
-                    <h3 class="section-subheading text-muted">inserir</h3>
-                    <a class="btn btn-primary btn-xl text-uppercase" href=pages_php/06_tudo-detalhe/index.php>Confira!</a>
+                    <h3 class="section-subheading text-muted">Conferir lista</h3>
+                    <a class="btn btn-primary btn-xl text-uppercase" href=6-lista/index.php>Confira!</a>
                 </div>
                 <div class="row">
                     
@@ -141,12 +142,12 @@
         </section>
 
         <!-- 07-->
-        <section class="page-section bg-light" id="inserir">
+        <section class="page-section bg-light" id="at7">
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">07</h2>
-                    <h3 class="section-subheading text-muted">inserir</h3>
-                    <a class="btn btn-primary btn-xl text-uppercase" href=pages_php/07_editar/index.php>Confira!</a>
+                    <h3 class="section-subheading text-muted">Editar lista</h3>
+                    <a class="btn btn-primary btn-xl text-uppercase" href=7-editar/index.php>Confira!</a>
                 </div>
                 <div class="row">
                     
