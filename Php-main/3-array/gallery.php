@@ -1,5 +1,3 @@
-
-
 <div class="container">
   <h1>Listando imagens de um diretório</h1>
   <p>Neste exemplo, os endereços das imagens contidas em um diretório são armazenados em um array.</p>
@@ -7,7 +5,7 @@
   <div class="row">
 
   <?php
-  $dir    = 'C:/wamp64/www/web_responsivo/03_array/img';
+  $dir    = 'C:/wamp64/www/phpinicio-main/Php-main/3-array/img';
   $files = scandir($dir);
   foreach($files as $file){
     if($file != "." AND $file != "..") {

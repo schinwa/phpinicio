@@ -6,10 +6,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-    <script src="js/script.js"></script>
-    <link rel="stylesheet" id="stylesheet" href="Estilo/light.css"/>
-    <script src="script.js"></script>
-    <link rel="stylesheet" id="stylesheet" href="Estilo/light.css"/>
 
      <!-- Favicon-->
      <link rel="icon" type="image/x-icon" href="img/phpicon.ico" />
@@ -19,12 +15,12 @@
      <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
      <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
      <!-- Core theme CSS (includes Bootstrap)-->
-     <link href="css/stylesphp.css" rel="stylesheet" />
+     <link href="../css/stylesphpp.css" id="stylesheet" rel="stylesheet" />
  </head>
  <body id="page-top">
 
      <!-- Navigation-->
-     <?php include ("menuphppages.php"); ?>
+     <?php include ("../menuphppages.php"); ?>
 
      <!-- Masthead-->
      <header class="masthead">
@@ -44,7 +40,7 @@
    </div>
 
    <!-- Form-->
-   <div class="container-fluid mt-3">
+   <div class="text-center">
   <h1>Dobrar Receita</h1>
   <p>Neste exemplo, recebemos um número e multiplicamos cada ingrediente da receita.</p>
     
@@ -56,8 +52,9 @@
 
     <form method="POST" action="action.php">
       Multiplicar receita por:
-      <input type="number" id="num" name="num">
-      <input type="submit" value="ok">
+
+      <input  type="number" id="num" name="num" placeholder="Add quant de receita:" required><br> 
+      <input class="btn btn-primary btn-xl text-uppercase" type="submit" value="Calcular">
     </form>
 
 </div>

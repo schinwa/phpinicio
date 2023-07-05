@@ -1,7 +1,3 @@
-
-
-
-
 <div class="container">
   <h1>Carrossel</h1>
   <p>A forma de exebição de imagens aqui é em carrossel.</p>
@@ -10,7 +6,7 @@
 
 
 <?php
-$dir    = 'C:/wamp64/www/web_responsivo/03_array/img';
+$dir    = 'C:/wamp64/www/phpinicio-main/Php-main/3-array/img';
 $files = scandir($dir);
 
 ?>
@@ -79,10 +75,6 @@ $files = scandir($dir);
   </button>
 
   </div>
-
-
-
-
 
   </div>
   

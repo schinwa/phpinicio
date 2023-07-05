@@ -41,31 +41,29 @@
     <!-- Portfolio-->
     <section class="content-section" id="portfolio">
             <div class="container px-4 px-lg-5">
-                <div class="content-section-heading text-center">
-                    <h3 class="text-secondary mb-0">Atvidades realizadas</h3>
-                    <h2 class="mb-5">...</h2>
-                </div>
                 <div class="row gx-0">
                     <div class="col-lg-6">
                         <a class="portfolio-item" href="homejs.php">
                             <div class="caption">
-                                <div class="caption-content">
-                                    <div class="h2">JS</div>
+                            <img class="img-fluid" src="img/2.png" alt="..." />
+                                <div class="caption-content">  
+                                <div class="h2">JS</div>  
                                     <p class="mb-0">Atividade anterior</p>
                                 </div>
                             </div>
-                            <img class="img-fluid" src="img/jsquare.png" alt="..." />
+                            
                         </a>
                     </div>
                     <div class="col-lg-6">
                         <a class="portfolio-item" href="homephp.php">
                             <div class="caption">
                                 <div class="caption-content">
-                                    <div class="h2">PHP</div>
+                                <img class="img-fluid" src="img/1.png" alt="..." />
+                                    <div class="h2" color="purple">PHP</div>
                                     <p class="mb-0">Atividade final</p>
                                 </div>
                             </div>
-                            <img class="img-fluid" src="img/psquare.png" alt="..." />
+                            
                         </a>
                     </div>  
                 </div>
