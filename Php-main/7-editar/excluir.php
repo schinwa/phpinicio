@@ -1,6 +1,7 @@
 <!DOCTYPE html>
     <html lang="en">
     <head>
+    <title>Sistemas Web Responsivos</title>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -29,14 +30,8 @@
         </div>
     </header>
 
-</head>
+    </body>
 <body>
-   <title>Lista</title>
-</head>
-<body>
-   <div id="telaReceita">
-       <p id="paragReceita"></p>
-   </div>
 
    <!-- Form-->
    <div class="container-fluid mt-3">
